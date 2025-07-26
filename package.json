@@ -1,0 +1,17 @@
+{
+  "name": "mern-ecom",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix ./api"
+  },
+  "dependencies": {
+    "braintree": "^3.32.0",
+    "concurrently": "^9.2.0",
+    "cors": "^2.8.5",
+    "express-formidable": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^5.5.0",
+    "slugify": "^1.6.6"
+  }
+}
